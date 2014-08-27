@@ -6,13 +6,12 @@
 ::1	localhost
 #localhost END
 
-#Ingress↓
-74.125.135.141	m-dot-betaspike.appspot.com
-74.125.135.141	betaspike.appspot.com
-74.125.135.141	chrometophone.appspot.com
-74.125.135.141	lfe-alpo-gm.appspot.com
-#EURO#173.194.70.141	betaspike.appspot.com
-#Ingress↑
+#Ingress START
+74.125.207.141	m-dot-betaspike.appspot.com
+74.125.207.141	betaspike.appspot.com
+74.125.207.141	chrometophone.appspot.com
+74.125.207.141	lfe-alpo-gm.appspot.com
+#Ingress END
 
 #block stats START
 127.0.0.1	bbs2.chinaz.com  
